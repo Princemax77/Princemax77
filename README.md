@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Princemax77
+- 👋 Hi, I’m Princewill Maxwell
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web and App Development 
 - 💞️ I’m looking to collaborate on Tech Companies 
